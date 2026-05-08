@@ -16,7 +16,7 @@ Apaixonada por **design de interfaces** e **desenvolvimento *front-end***, busco
 ### ▸ *Tecnologias utilizadas;*
 <p align="left" >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,html,css,js,react,java&theme=light" style="margin-right:160px;"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,java&theme=light" style="margin-right:160px;"/>
   </a>
 </p>
 
@@ -31,28 +31,6 @@ Apaixonada por **design de interfaces** e **desenvolvimento *front-end***, busco
 <br>
 
 --- 
-
-<br>
-
-### ⥱ **Estatísticas do GitHub**
-
-<div align="center">
-
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=ieticiamiranda&hide_border=true&background=00000000&ring=6556cc&fire=605ac4&currStreakLabel=6556cc&sideLabels=605ac4&dates=BDB9F2&currStreakNum=BDB9F2"/>
-  &nbsp;&nbsp;
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=leticiamiranda&show_icons=true&hide_border=true&theme=dracula&title_color=6556cc&icon_color=605ac4&text_color=BDB9F2&bg_color=00000000"/>
-
-  <br><br>
-
-  <img height="121em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ieticiamiranda&layout=compact&langs_count=8&hide_border=true&custom_title=Linguagens%20Mais%20Usadas&include_orgs=true&title_color=6556cc&text_color=BDB9F2&bg_color=00000000&icon_color=605ac4"/>
-
-</div>
-
-<br>
-
---- 
-
-<br>
 
 ### ⥱ **Entre em contato**
 
